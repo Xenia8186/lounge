@@ -33,6 +33,7 @@
   background-repeat: repeat-x;
   line-height: 1em;
   line-height: 1;
+  float:right;
 }
 h1, h2{
   color: black;
